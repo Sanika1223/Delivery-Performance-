@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS delivery_analysis (
+    delivery_record_id TEXT PRIMARY KEY,
+    delivery_id_original TEXT,
+    delivery_partner TEXT,
+    package_type TEXT,
+    vehicle_type TEXT,
+    delivery_mode TEXT,
+    region TEXT,
+    weather_condition TEXT,
+    distance_km NUMERIC,
+    package_weight_kg NUMERIC,
+    delivery_rating NUMERIC,
+    delivery_cost NUMERIC,
+    delayed TEXT,
+    delivery_status TEXT,
+    delivery_time_hours NUMERIC,
+    expected_time_hours NUMERIC,
+    delivery_time_hours_original TEXT,
+    expected_time_hours_original TEXT,
+    time_data_quality TEXT
+);

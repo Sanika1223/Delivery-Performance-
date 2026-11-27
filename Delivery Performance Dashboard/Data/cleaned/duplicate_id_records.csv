@@ -1,0 +1,501 @@
+delivery_id,delivery_partner,package_type,vehicle_type,delivery_mode,region,weather_condition,distance_km,package_weight_kg,delivery_time_hours,expected_time_hours,delayed,delivery_status,delivery_rating,delivery_cost
+250.99,delhivery,automobile parts,bike,same day,west,clear,297.0,46.96,00:00.0,00:00.0,no,delivered,3,1632.7206
+250.99,xpressbees,cosmetics,ev van,express,central,cold,89.6,47.39,00:00.0,00:00.0,no,delivered,5,640.17
+250.99,shadowfax,groceries,truck,two day,east,rainy,273.5,26.89,00:00.0,00:00.0,no,delivered,4,1448.17
+250.99,dhl,electronics,ev van,same day,east,cold,269.7,12.69,00:00.0,00:00.0,no,delivered,3,1486.57
+250.99,dhl,clothing,van,two day,north,foggy,256.7,37.02,00:00.0,00:00.0,no,delivered,4,1394.56
+250.99,amazon logistics,documents,ev bike,express,west,rainy,48.4,33.15,00:00.0,00:00.0,yes,delayed,3,391.45
+250.99,delhivery,groceries,scooter,same day,central,clear,198.3,43.79,00:00.0,00:00.0,no,delivered,3,1222.87
+250.99,xpressbees,fragile items,van,same day,north,cold,114.6,42.63,00:00.0,00:00.0,no,delivered,3,800.89
+250.99,blue dart,clothing,van,same day,south,hot,142.4,14.06,00:00.0,00:00.0,no,delivered,5,854.18
+250.99,delhivery,pharmacy,truck,same day,east,foggy,47.1,29.28,00:00.0,00:00.0,no,delivered,5,423.34
+250.99,fedex,groceries,scooter,same day,east,cold,293.2,22.05,00:00.0,00:00.0,no,delivered,4,1632.15
+250.99,ecom express,electronics,truck,two day,east,cold,80.4,46.48,00:00.0,00:00.0,no,delivered,5,541.44
+250.99,xpressbees,pharmacy,ev van,two day,north,rainy,257.7,20.56,00:00.0,00:00.0,no,delivered,4,1350.18
+250.99,xpressbees,cosmetics,bike,express,east,stormy,19.0,3.36,00:00.0,00:00.0,yes,failed,1,155.08
+250.99,xpressbees,automobile parts,ev bike,two day,east,stormy,237.9,24.59,00:00.0,00:00.0,no,delivered,3,1263.27
+250.99,amazon logistics,furniture,ev van,express,north,hot,239.3,11.67,00:00.0,00:00.0,yes,delayed,3,1281.51
+250.99,fedex,documents,bike,standard,west,stormy,79.0,0.73,00:00.0,00:00.0,no,delivered,5,397.19
+250.99,blue dart,fragile items,ev bike,standard,central,rainy,170.7,45.62,00:00.0,00:00.0,no,delivered,5,990.36
+250.99,amazon logistics,documents,van,same day,north,rainy,90.0,33.7,00:00.0,00:00.0,no,delivered,3,651.1
+250.99,fedex,cosmetics,truck,express,north,rainy,64.0,6.03,00:00.0,00:00.0,yes,failed,2,388.09
+250.99,fedex,automobile parts,scooter,two day,east,foggy,185.9,19.1,00:00.0,00:00.0,no,delivered,4,986.8
+250.99,dhl,electronics,scooter,two day,west,stormy,217.9,14.08,00:00.0,00:00.0,no,delivered,4,1131.74
+250.99,blue dart,automobile parts,scooter,same day,north,cold,214.1,40.85,00:00.0,00:00.0,no,delivered,5,1293.05
+250.99,ecom express,clothing,bike,standard,central,clear,251.7,34.9,00:00.0,00:00.0,no,delivered,4,1363.2
+250.99,amazon logistics,furniture,van,standard,east,foggy,214.9,5.67,00:00.0,00:00.0,no,delivered,5,1091.51
+250.99,shadowfax,documents,ev van,two day,north,stormy,115.4,0.67,00:00.0,00:00.0,no,delivered,4,578.59
+250.99,dhl,clothing,ev bike,express,east,foggy,293.8,41.03,00:00.0,00:00.0,yes,delayed,3,1632.7206
+250.99,amazon logistics,cosmetics,scooter,standard,east,clear,286.8,46.67,00:00.0,00:00.0,no,delivered,3,1574.01
+250.99,fedex,furniture,truck,express,south,hot,136.1,48.1,00:00.0,00:00.0,no,delivered,5,874.8
+250.99,dhl,furniture,bike,two day,east,rainy,291.4,6.12,00:00.0,00:00.0,no,delivered,5,1475.36
+250.99,fedex,furniture,bike,standard,south,hot,295.0,19.68,00:00.0,00:00.0,no,delivered,5,1534.04
+250.99,ekart,cosmetics,truck,same day,central,rainy,223.3,6.29,00:00.0,00:00.0,yes,failed,1,1235.37
+250.99,delhivery,automobile parts,scooter,express,south,hot,242.5,46.73,00:00.0,00:00.0,yes,failed,1,1402.69
+250.99,fedex,furniture,ev bike,two day,central,rainy,35.1,22.72,00:00.0,00:00.0,no,delivered,5,243.66
+250.99,amazon logistics,clothing,bike,express,central,stormy,81.8,45.51,00:00.0,00:00.0,yes,delayed,2,595.53
+250.99,delhivery,documents,bike,same day,east,clear,37.6,22.81,00:00.0,00:00.0,no,delivered,4,356.43
+250.99,amazon logistics,furniture,ev bike,express,north,rainy,46.8,4.72,00:00.0,00:00.0,yes,delayed,2,298.16
+250.99,amazon logistics,electronics,scooter,same day,central,hot,233.4,18.0,00:00.0,00:00.0,no,delivered,5,1321.0
+250.99,ekart,documents,bike,standard,east,rainy,62.2,48.58,00:00.0,00:00.0,no,delivered,3,456.74
+250.99,shadowfax,clothing,ev bike,standard,south,foggy,114.0,43.85,00:00.0,00:00.0,no,delivered,4,701.55
+250.99,blue dart,automobile parts,ev bike,same day,north,foggy,131.5,25.79,00:00.0,00:00.0,no,delivered,5,834.87
+250.99,xpressbees,groceries,ev van,express,south,rainy,21.4,16.58,00:00.0,00:00.0,yes,delayed,3,206.74
+250.99,xpressbees,fragile items,truck,standard,west,stormy,258.5,8.37,00:00.0,00:00.0,no,delivered,5,1317.61
+250.99,dhl,furniture,van,two day,east,rainy,253.9,7.07,00:00.0,00:00.0,no,delivered,3,1290.71
+250.99,delhivery,furniture,ev bike,same day,north,stormy,6.7,7.96,00:00.0,00:00.0,no,delivered,4,157.38
+250.99,ecom express,automobile parts,ev bike,standard,west,hot,178.1,26.7,00:00.0,00:00.0,no,delivered,4,970.6
+250.99,fedex,cosmetics,truck,standard,south,hot,180.0,35.04,00:00.0,00:00.0,no,delivered,3,1005.12
+250.99,ecom express,documents,scooter,two day,north,rainy,187.9,14.96,00:00.0,00:00.0,no,delivered,4,984.38
+250.99,xpressbees,documents,ev van,express,west,hot,78.3,49.22,00:00.0,00:00.0,yes,failed,1,589.16
+250.99,amazon logistics,pharmacy,ev bike,express,west,hot,51.6,23.45,00:00.0,00:00.0,no,delivered,4,378.35
+250.99,xpressbees,electronics,ev van,same day,central,stormy,26.9,29.86,00:00.0,00:00.0,no,delivered,5,324.08
+250.99,blue dart,clothing,truck,express,north,hot,216.7,26.89,00:00.0,00:00.0,yes,delayed,2,1214.17
+250.99,dhl,electronics,van,standard,south,foggy,148.2,38.6,00:00.0,00:00.0,no,delivered,4,856.8
+250.99,fedex,cosmetics,ev van,same day,south,clear,184.2,46.79,00:00.0,00:00.0,no,delivered,4,1161.37
+250.99,fedex,groceries,truck,same day,east,stormy,167.7,42.4,00:00.0,00:00.0,no,delivered,5,1065.7
+250.99,delhivery,electronics,ev bike,standard,central,cold,197.7,25.84,00:00.0,00:00.0,no,delivered,5,1066.02
+250.99,fedex,cosmetics,ev van,standard,north,foggy,211.9,46.94,00:00.0,00:00.0,no,delivered,5,1200.32
+250.99,blue dart,pharmacy,scooter,same day,west,stormy,64.3,21.05,00:00.0,00:00.0,no,delivered,5,484.65
+250.99,xpressbees,cosmetics,scooter,two day,east,hot,206.7,3.87,00:00.0,00:00.0,no,delivered,4,1045.11
+250.99,xpressbees,clothing,bike,two day,east,cold,83.5,6.81,00:00.0,00:00.0,no,delivered,5,437.93
+250.99,ecom express,fragile items,truck,same day,central,foggy,9.3,47.62,00:00.0,00:00.0,no,delivered,5,289.36
+250.99,xpressbees,clothing,ev bike,standard,west,rainy,245.9,47.01,00:00.0,00:00.0,no,delivered,3,1370.53
+250.99,dhl,pharmacy,ev van,express,north,stormy,225.7,45.7,00:00.0,00:00.0,yes,delayed,2,1315.6
+250.99,ecom express,pharmacy,bike,express,east,hot,226.0,37.62,00:00.0,00:00.0,yes,delayed,2,1292.86
+250.99,dhl,clothing,bike,two day,west,hot,113.3,34.03,00:00.0,00:00.0,no,delivered,5,668.59
+250.99,ekart,groceries,ev bike,standard,north,stormy,232.3,41.91,00:00.0,00:00.0,no,delivered,4,1287.23
+250.99,ecom express,electronics,scooter,express,east,cold,87.7,22.38,00:00.0,00:00.0,yes,failed,2,555.64
+250.99,dhl,furniture,van,same day,east,rainy,90.1,27.46,00:00.0,00:00.0,no,delivered,4,632.88
+250.99,delhivery,cosmetics,bike,express,north,rainy,110.4,44.94,00:00.0,00:00.0,yes,delayed,2,736.82
+250.99,fedex,documents,bike,same day,central,cold,217.3,3.03,00:00.0,00:00.0,no,delivered,5,1195.59
+250.99,amazon logistics,furniture,truck,standard,south,rainy,75.2,28.25,00:00.0,00:00.0,no,delivered,3,460.75
+250.99,blue dart,automobile parts,ev bike,two day,south,hot,23.2,19.18,00:00.0,00:00.0,no,delivered,5,173.54
+250.99,fedex,documents,ev van,express,north,rainy,78.5,27.87,00:00.0,00:00.0,yes,delayed,3,526.11
+250.99,blue dart,documents,van,express,north,hot,138.3,47.87,00:00.0,00:00.0,yes,delayed,3,885.11
+250.99,xpressbees,clothing,truck,two day,north,cold,96.4,39.33,00:00.0,00:00.0,no,delivered,4,599.99
+250.99,fedex,furniture,ev van,standard,west,cold,216.2,23.93,00:00.0,00:00.0,no,delivered,4,1152.79
+250.99,ekart,clothing,van,express,south,stormy,24.1,34.1,00:00.0,00:00.0,yes,delayed,3,272.8
+250.99,ekart,fragile items,scooter,standard,east,rainy,197.1,28.23,00:00.0,00:00.0,no,delivered,4,1070.19
+250.99,shadowfax,documents,ev bike,same day,west,foggy,94.8,10.02,00:00.0,00:00.0,no,delivered,4,604.06
+250.99,xpressbees,pharmacy,bike,express,south,hot,56.0,22.91,00:00.0,00:00.0,yes,delayed,2,398.73
+250.99,ecom express,clothing,scooter,same day,east,stormy,70.7,5.72,00:00.0,00:00.0,yes,delayed,3,470.66
+250.99,dhl,documents,bike,same day,east,rainy,60.4,22.93,00:00.0,00:00.0,no,delivered,5,470.79
+250.99,blue dart,clothing,truck,same day,central,stormy,258.4,22.08,00:00.0,00:00.0,yes,failed,2,1458.24
+250.99,amazon logistics,furniture,scooter,two day,central,cold,89.3,34.98,00:00.0,00:00.0,no,delivered,4,551.44
+250.99,shadowfax,electronics,van,two day,south,clear,244.0,13.62,00:00.0,00:00.0,no,delivered,4,1260.86
+250.99,xpressbees,electronics,truck,standard,south,stormy,87.8,19.77,00:00.0,00:00.0,no,delivered,4,498.31
+250.99,delhivery,furniture,scooter,same day,east,stormy,3.6,20.7,00:00.0,00:00.0,no,delivered,4,172.6
+250.99,ekart,furniture,van,two day,south,cold,3.6,8.75,00:00.0,00:00.0,no,delivered,3,95.6674
+250.99,xpressbees,documents,van,standard,east,rainy,111.0,36.68,00:00.0,00:00.0,no,delivered,4,665.04
+250.99,amazon logistics,groceries,bike,express,east,rainy,256.4,33.53,00:00.0,00:00.0,yes,delayed,3,1432.59
+250.99,dhl,groceries,ev van,same day,east,foggy,177.9,20.16,00:00.0,00:00.0,no,delivered,5,1049.98
+250.99,amazon logistics,cosmetics,ev van,two day,east,rainy,204.2,8.09,00:00.0,00:00.0,no,delivered,4,1045.27
+250.99,amazon logistics,furniture,ev bike,standard,central,cold,125.0,39.41,00:00.0,00:00.0,no,delivered,5,743.23
+250.99,dhl,fragile items,bike,two day,north,hot,83.3,34.71,00:00.0,00:00.0,no,delivered,4,520.63
+250.99,ecom express,clothing,van,standard,west,foggy,193.2,33.28,00:00.0,00:00.0,no,delivered,4,1065.84
+250.99,ekart,clothing,van,two day,east,foggy,174.3,47.29,00:00.0,00:00.0,no,delivered,5,1013.37
+250.99,ekart,groceries,bike,same day,west,clear,11.4,40.22,00:00.0,00:00.0,no,delivered,5,277.66
+250.99,xpressbees,electronics,ev van,express,east,clear,166.4,44.96,00:00.0,00:00.0,yes,delayed,2,1016.88
+250.99,shadowfax,cosmetics,van,standard,west,stormy,189.6,38.07,00:00.0,00:00.0,no,delivered,5,1062.21
+250.99,blue dart,groceries,truck,express,west,stormy,111.2,37.33,00:00.0,00:00.0,yes,delayed,2,717.99
+250.99,amazon logistics,groceries,ev bike,same day,west,hot,103.2,37.97,00:00.0,00:00.0,no,delivered,5,729.91
+250.99,blue dart,furniture,scooter,standard,east,clear,236.4,47.28,00:00.0,00:00.0,no,delivered,4,1323.84
+250.99,amazon logistics,electronics,van,same day,central,clear,111.9,26.34,00:00.0,00:00.0,no,delivered,5,738.52
+250.99,delhivery,groceries,ev van,standard,south,stormy,86.6,20.64,00:00.0,00:00.0,no,delivered,5,494.92
+250.99,amazon logistics,automobile parts,ev bike,standard,west,clear,235.6,48.07,00:00.0,00:00.0,no,delivered,5,1322.21
+250.99,amazon logistics,pharmacy,truck,same day,south,cold,295.5,48.45,00:00.0,00:00.0,no,delivered,4,1632.7206
+250.99,amazon logistics,pharmacy,truck,two day,west,foggy,56.3,43.65,00:00.0,00:00.0,no,delivered,5,412.45
+250.99,shadowfax,furniture,bike,two day,central,stormy,114.2,28.82,00:00.0,00:00.0,no,delivered,5,657.46
+250.99,fedex,furniture,scooter,same day,north,hot,3.6,31.41,00:00.0,00:00.0,no,delivered,4,203.23
+250.99,xpressbees,automobile parts,bike,same day,west,stormy,146.2,22.55,00:00.0,00:00.0,yes,failed,2,898.65
+250.99,ekart,automobile parts,ev bike,same day,east,clear,85.6,10.69,00:00.0,00:00.0,no,delivered,4,560.07
+250.99,amazon logistics,groceries,ev van,express,south,rainy,247.9,5.23,00:00.0,00:00.0,yes,failed,2,1305.19
+250.99,shadowfax,automobile parts,bike,standard,south,foggy,274.8,0.82,00:00.0,00:00.0,no,delivered,4,1376.46
+250.99,fedex,electronics,scooter,standard,west,clear,35.7,10.8,00:00.0,00:00.0,no,delivered,3,210.9
+250.99,fedex,documents,van,express,central,stormy,259.3,27.01,00:00.0,00:00.0,yes,failed,1,1427.53
+250.99,shadowfax,documents,ev bike,same day,south,clear,65.3,45.09,00:00.0,00:00.0,no,delivered,5,561.77
+250.99,delhivery,cosmetics,van,express,south,clear,93.1,20.89,00:00.0,00:00.0,no,delivered,3,578.17
+250.99,blue dart,pharmacy,bike,standard,central,hot,265.8,32.11,00:00.0,00:00.0,no,delivered,5,1425.33
+250.99,ekart,furniture,truck,two day,west,clear,110.2,23.24,00:00.0,00:00.0,no,delivered,4,620.72
+250.99,blue dart,documents,bike,standard,west,clear,6.0,0.88,00:00.0,00:00.0,no,delivered,4,95.6674
+250.99,dhl,furniture,truck,two day,east,foggy,16.5,21.49,00:00.0,00:00.0,no,delivered,4,146.97
+250.99,xpressbees,documents,ev van,standard,north,cold,102.0,18.67,00:00.0,00:00.0,no,delivered,4,566.01
+250.99,shadowfax,furniture,bike,express,north,rainy,265.4,15.96,00:00.0,00:00.0,yes,delayed,3,1424.88
+250.99,fedex,groceries,ev van,two day,north,foggy,27.5,15.43,00:00.0,00:00.0,no,delivered,5,183.79
+250.99,amazon logistics,fragile items,truck,two day,south,hot,59.5,7.79,00:00.0,00:00.0,no,delivered,3,320.87
+250.99,shadowfax,cosmetics,bike,express,north,cold,290.2,29.26,00:00.0,00:00.0,no,delivered,4,1588.78
+250.99,delhivery,clothing,scooter,standard,east,rainy,124.0,40.2,00:00.0,00:00.0,no,delivered,4,740.6
+250.99,xpressbees,automobile parts,scooter,two day,north,clear,261.9,41.68,00:00.0,00:00.0,no,delivered,4,1434.54
+250.99,shadowfax,pharmacy,ev van,two day,central,rainy,115.6,13.57,00:00.0,00:00.0,no,delivered,5,618.71
+250.99,shadowfax,groceries,ev bike,express,east,hot,156.0,14.49,00:00.0,00:00.0,no,delivered,3,873.47
+250.99,shadowfax,furniture,van,standard,north,foggy,284.1,14.35,00:00.0,00:00.0,no,delivered,4,1463.55
+250.99,fedex,clothing,truck,same day,north,cold,287.0,8.21,00:00.0,00:00.0,yes,failed,1,1559.63
+250.99,delhivery,electronics,van,two day,north,foggy,50.5,31.28,00:00.0,00:00.0,no,delivered,4,346.34
+250.99,shadowfax,groceries,van,two day,west,foggy,203.3,7.5,00:00.0,00:00.0,no,delivered,4,1039.0
+250.99,amazon logistics,fragile items,truck,same day,west,hot,127.8,20.03,00:00.0,00:00.0,no,delivered,3,799.09
+250.99,ekart,groceries,scooter,two day,east,cold,45.8,27.22,00:00.0,00:00.0,no,delivered,5,310.66
+250.99,shadowfax,groceries,ev bike,same day,west,hot,8.7,33.93,00:00.0,00:00.0,no,delivered,5,245.29
+250.99,delhivery,automobile parts,ev van,standard,north,rainy,152.8,48.37,00:00.0,00:00.0,no,delivered,4,909.11
+250.99,dhl,automobile parts,ev van,same day,south,rainy,29.0,40.89,00:00.0,00:00.0,no,delivered,4,367.67
+250.99,dhl,furniture,scooter,standard,north,clear,281.6,19.81,00:00.0,00:00.0,no,delivered,3,1467.43
+250.99,ecom express,electronics,van,same day,east,stormy,75.7,41.47,00:00.0,00:00.0,yes,delayed,2,602.91
+250.99,blue dart,cosmetics,scooter,standard,north,cold,132.5,14.18,00:00.0,00:00.0,no,delivered,4,705.04
+250.99,ekart,cosmetics,truck,standard,west,rainy,218.2,34.0,00:00.0,00:00.0,no,delivered,5,1193.0
+250.99,dhl,automobile parts,scooter,express,east,rainy,152.8,10.46,00:00.0,00:00.0,yes,delayed,2,845.38
+250.99,ecom express,automobile parts,van,same day,west,cold,113.8,21.95,00:00.0,00:00.0,no,delivered,3,734.85
+250.99,amazon logistics,pharmacy,bike,standard,east,clear,189.3,30.78,00:00.0,00:00.0,no,delivered,5,1038.84
+250.99,delhivery,electronics,truck,two day,north,rainy,60.1,40.63,00:00.0,00:00.0,no,delivered,3,422.39
+250.99,ekart,documents,truck,same day,south,foggy,147.7,46.57,00:00.0,00:00.0,no,delivered,4,978.21
+250.99,amazon logistics,cosmetics,truck,two day,north,cold,289.0,48.99,00:00.0,00:00.0,no,delivered,4,1591.97
+250.99,delhivery,pharmacy,van,express,north,cold,235.6,42.35,00:00.0,00:00.0,yes,delayed,3,1355.05
+250.99,amazon logistics,groceries,ev bike,same day,central,cold,101.1,9.76,00:00.0,00:00.0,no,delivered,4,634.78
+250.99,ekart,groceries,truck,two day,central,cold,273.9,42.56,00:00.0,00:00.0,no,delivered,3,1497.18
+250.99,ecom express,cosmetics,scooter,standard,north,clear,262.6,29.36,00:00.0,00:00.0,no,delivered,4,1401.08
+250.99,ekart,groceries,van,two day,east,clear,82.2,18.81,00:00.0,00:00.0,no,delivered,3,467.43
+250.99,dhl,clothing,truck,same day,south,cold,280.3,15.29,00:00.0,00:00.0,no,delivered,4,1547.37
+250.99,shadowfax,automobile parts,bike,same day,east,foggy,146.1,36.12,00:00.0,00:00.0,yes,delayed,2,938.86
+250.99,blue dart,groceries,van,same day,west,clear,279.9,21.63,00:00.0,00:00.0,yes,failed,2,1564.39
+250.99,shadowfax,documents,ev van,same day,south,stormy,165.4,43.2,00:00.0,00:00.0,yes,delayed,2,1056.6
+250.99,fedex,electronics,van,two day,central,cold,29.9,47.31,00:00.0,00:00.0,no,delivered,3,291.43
+250.99,amazon logistics,furniture,truck,standard,north,hot,42.6,44.55,00:00.0,00:00.0,no,delivered,4,346.65
+250.99,ecom express,automobile parts,ev bike,standard,east,foggy,149.9,23.31,00:00.0,00:00.0,no,delivered,4,819.43
+250.99,shadowfax,clothing,scooter,standard,west,rainy,8.4,44.16,00:00.0,00:00.0,no,delivered,4,174.48
+250.99,dhl,documents,ev bike,two day,east,hot,230.8,30.01,00:00.0,00:00.0,no,delivered,4,1244.03
+250.99,dhl,clothing,bike,express,west,clear,93.0,9.37,00:00.0,00:00.0,no,delivered,4,543.11
+250.99,dhl,electronics,van,two day,west,clear,10.4,4.59,00:00.0,00:00.0,no,delivered,4,95.6674
+250.99,amazon logistics,pharmacy,truck,two day,north,hot,194.9,2.42,00:00.0,00:00.0,no,delivered,4,981.76
+250.99,ekart,documents,scooter,express,west,rainy,182.1,2.26,00:00.0,00:00.0,yes,delayed,2,967.28
+250.99,blue dart,cosmetics,ev bike,standard,south,clear,38.8,40.89,00:00.0,00:00.0,no,delivered,4,316.67
+250.99,dhl,groceries,bike,two day,north,cold,55.2,6.78,00:00.0,00:00.0,no,delivered,3,296.34
+250.99,delhivery,pharmacy,truck,express,east,stormy,223.3,44.36,00:00.0,00:00.0,yes,failed,1,1299.58
+250.99,delhivery,electronics,truck,express,west,hot,46.2,14.83,00:00.0,00:00.0,no,delivered,5,325.49
+250.99,delhivery,documents,ev bike,two day,south,hot,3.6,49.52,00:00.0,00:00.0,no,delivered,5,163.39
+250.99,xpressbees,groceries,scooter,express,north,hot,297.1,22.0,00:00.0,00:00.0,no,delivered,5,1615.5
+250.99,xpressbees,electronics,bike,express,central,hot,87.8,7.72,00:00.0,00:00.0,no,delivered,5,512.16
+250.99,xpressbees,groceries,truck,express,central,hot,267.4,11.53,00:00.0,00:00.0,yes,delayed,2,1421.59
+250.99,fedex,furniture,ev van,two day,east,stormy,124.8,10.84,00:00.0,00:00.0,no,delivered,4,656.52
+250.99,xpressbees,groceries,ev bike,express,south,clear,288.9,8.3,00:00.0,00:00.0,no,delivered,4,1519.4
+250.99,blue dart,furniture,scooter,two day,central,hot,129.5,39.84,00:00.0,00:00.0,no,delivered,4,767.02
+250.99,ecom express,fragile items,van,same day,south,foggy,225.0,7.32,00:00.0,00:00.0,yes,delayed,3,1246.96
+250.99,fedex,cosmetics,scooter,standard,south,stormy,289.7,24.36,00:00.0,00:00.0,no,delivered,5,1521.58
+250.99,ecom express,electronics,ev bike,standard,south,rainy,85.4,41.07,00:00.0,00:00.0,no,delivered,4,550.21
+250.99,blue dart,pharmacy,truck,same day,east,hot,9.9,30.24,00:00.0,00:00.0,no,delivered,3,240.22
+250.99,fedex,automobile parts,van,standard,west,hot,135.1,37.59,00:00.0,00:00.0,no,delivered,5,788.27
+250.99,xpressbees,fragile items,bike,standard,south,stormy,228.6,5.64,00:00.0,00:00.0,no,delivered,4,1159.92
+250.99,fedex,documents,truck,express,north,rainy,169.6,41.44,00:00.0,00:00.0,yes,delayed,3,1022.32
+250.99,fedex,fragile items,van,express,central,foggy,250.7,29.97,00:00.0,00:00.0,yes,failed,2,1393.41
+250.99,blue dart,fragile items,bike,two day,north,rainy,80.7,0.67,00:00.0,00:00.0,no,delivered,4,404.76
+250.99,dhl,groceries,scooter,two day,east,stormy,21.3,41.19,00:00.0,00:00.0,no,delivered,3,230.07
+250.99,ekart,fragile items,ev bike,two day,north,clear,67.1,32.91,00:00.0,00:00.0,no,delivered,4,434.23
+250.99,ekart,pharmacy,ev bike,standard,west,foggy,69.4,0.99,00:00.0,00:00.0,no,delivered,3,349.97
+250.99,xpressbees,cosmetics,van,two day,south,cold,101.2,39.37,00:00.0,00:00.0,no,delivered,5,624.11
+250.99,shadowfax,cosmetics,ev bike,two day,north,rainy,94.2,49.37,00:00.0,00:00.0,no,delivered,4,619.11
+250.99,shadowfax,fragile items,ev bike,same day,north,foggy,71.0,32.56,00:00.0,00:00.0,no,delivered,3,552.68
+250.99,dhl,automobile parts,truck,two day,east,foggy,37.4,42.36,00:00.0,00:00.0,no,delivered,4,314.08
+250.99,ecom express,fragile items,scooter,two day,north,cold,157.0,43.03,00:00.0,00:00.0,no,delivered,4,914.09
+250.99,delhivery,groceries,van,same day,east,cold,213.7,49.52,00:00.0,00:00.0,no,delivered,5,1317.81
+250.99,dhl,pharmacy,ev bike,express,central,cold,272.6,12.84,00:00.0,00:00.0,yes,delayed,2,1451.52
+250.99,blue dart,pharmacy,scooter,express,south,stormy,83.5,24.02,00:00.0,00:00.0,yes,delayed,2,539.56
+250.99,dhl,fragile items,truck,express,central,foggy,198.5,20.1,00:00.0,00:00.0,no,delivered,5,1102.8
+250.99,ecom express,groceries,ev bike,express,west,hot,158.7,35.06,00:00.0,00:00.0,yes,failed,2,948.68
+250.99,dhl,documents,truck,same day,north,clear,265.3,31.8,00:00.0,00:00.0,no,delivered,5,1521.9
+250.99,ecom express,cosmetics,truck,express,east,stormy,208.8,22.83,00:00.0,00:00.0,yes,delayed,2,1162.49
+250.99,fedex,automobile parts,scooter,express,east,rainy,55.7,46.5,00:00.0,00:00.0,yes,failed,1,468.0
+250.99,xpressbees,automobile parts,van,standard,east,foggy,80.6,45.16,00:00.0,00:00.0,no,delivered,3,538.48
+250.99,fedex,clothing,bike,same day,east,stormy,187.7,6.69,00:00.0,00:00.0,yes,delayed,3,1058.57
+250.99,ekart,automobile parts,bike,standard,south,foggy,225.6,22.83,00:00.0,00:00.0,no,delivered,5,1196.49
+250.99,xpressbees,fragile items,truck,express,east,rainy,24.5,0.67,00:00.0,00:00.0,yes,delayed,2,174.12
+250.99,ecom express,clothing,scooter,standard,west,rainy,194.3,29.51,00:00.0,00:00.0,no,delivered,4,1060.03
+250.99,ekart,electronics,van,express,central,foggy,52.0,43.18,00:00.0,00:00.0,yes,delayed,3,439.54
+250.99,amazon logistics,clothing,van,same day,north,clear,282.9,31.33,00:00.0,00:00.0,yes,delayed,2,1608.49
+250.99,ekart,automobile parts,van,same day,north,cold,289.2,16.14,00:00.0,00:00.0,yes,failed,1,1594.42
+250.99,xpressbees,cosmetics,ev bike,standard,east,cold,257.9,45.92,00:00.0,00:00.0,no,delivered,3,1427.26
+250.99,amazon logistics,pharmacy,van,same day,east,hot,258.3,42.79,00:00.0,00:00.0,yes,delayed,2,1519.87
+250.99,fedex,pharmacy,ev van,express,central,rainy,288.4,44.12,00:00.0,00:00.0,yes,delayed,2,1624.36
+250.99,xpressbees,groceries,van,express,east,hot,86.5,37.04,00:00.0,00:00.0,no,delivered,4,593.62
+250.99,ekart,automobile parts,ev van,same day,south,stormy,157.3,4.51,00:00.0,00:00.0,yes,delayed,2,900.03
+250.99,delhivery,clothing,ev van,standard,central,rainy,41.0,29.25,00:00.0,00:00.0,no,delivered,5,292.75
+250.99,delhivery,documents,van,standard,central,foggy,137.4,27.87,00:00.0,00:00.0,no,delivered,3,770.61
+250.99,fedex,clothing,ev bike,standard,north,clear,32.3,46.58,00:00.0,00:00.0,no,delivered,4,301.24
+250.99,ecom express,fragile items,van,express,central,clear,207.8,40.12,00:00.0,00:00.0,yes,delayed,2,1209.36
+250.99,blue dart,furniture,ev van,standard,south,foggy,23.6,12.4,00:00.0,00:00.0,no,delivered,4,155.2
+250.99,fedex,cosmetics,ev bike,standard,south,clear,258.0,37.92,00:00.0,00:00.0,no,delivered,4,1403.76
+250.99,xpressbees,automobile parts,van,same day,north,cold,255.6,18.93,00:00.0,00:00.0,no,delivered,5,1434.79
+250.99,blue dart,clothing,scooter,standard,north,cold,289.7,19.13,00:00.0,00:00.0,no,delivered,5,1505.89
+250.99,xpressbees,automobile parts,ev van,express,north,rainy,9.1,45.65,00:00.0,00:00.0,yes,delayed,3,232.45
+250.99,ekart,clothing,truck,standard,west,foggy,245.8,4.19,00:00.0,00:00.0,no,delivered,5,1241.57
+250.99,amazon logistics,cosmetics,ev bike,two day,central,hot,88.6,8.67,00:00.0,00:00.0,no,delivered,3,469.01
+250.99,shadowfax,cosmetics,ev bike,standard,central,rainy,59.6,20.84,00:00.0,00:00.0,no,delivered,4,360.52
+250.99,fedex,fragile items,bike,express,east,hot,225.4,22.3,00:00.0,00:00.0,no,delivered,5,1243.9
+250.99,blue dart,clothing,scooter,express,south,clear,36.9,45.45,00:00.0,00:00.0,yes,delayed,3,370.85
+250.99,fedex,automobile parts,ev van,same day,central,stormy,262.9,31.73,00:00.0,00:00.0,yes,delayed,2,1509.69
+250.99,amazon logistics,fragile items,scooter,standard,central,clear,262.7,28.7,00:00.0,00:00.0,no,delivered,5,1399.6
+250.99,delhivery,electronics,ev van,two day,east,hot,167.2,35.91,00:00.0,00:00.0,no,delivered,3,943.73
+250.99,xpressbees,pharmacy,van,express,south,hot,127.4,3.49,00:00.0,00:00.0,no,delivered,3,697.47
+250.99,fedex,fragile items,ev van,standard,central,foggy,267.0,26.49,00:00.0,00:00.0,no,delivered,3,1414.47
+250.99,xpressbees,furniture,truck,same day,south,cold,214.0,34.34,00:00.0,00:00.0,no,delivered,4,1273.02
+250.99,shadowfax,groceries,bike,same day,east,stormy,10.6,42.68,00:00.0,00:00.0,no,delivered,5,281.04
+250.99,dhl,documents,scooter,same day,central,rainy,124.2,1.02,00:00.0,00:00.0,no,delivered,5,724.06
+250.99,ekart,furniture,ev van,two day,north,stormy,129.5,13.38,00:00.0,00:00.0,no,delivered,4,687.64
+250.99,shadowfax,automobile parts,scooter,express,south,foggy,257.0,10.83,00:00.0,00:00.0,yes,delayed,2,1367.49
+250.99,blue dart,pharmacy,scooter,two day,south,hot,264.9,43.16,00:00.0,00:00.0,no,delivered,5,1453.98
+250.99,shadowfax,cosmetics,bike,two day,west,stormy,163.5,19.83,00:00.0,00:00.0,no,delivered,5,876.99
+250.99,delhivery,fragile items,truck,same day,north,hot,34.6,47.42,00:00.0,00:00.0,no,delivered,4,415.26
+250.99,shadowfax,fragile items,ev bike,two day,north,rainy,183.1,38.15,00:00.0,00:00.0,no,delivered,4,1029.95
+250.99,shadowfax,groceries,ev van,standard,south,clear,138.7,43.15,00:00.0,00:00.0,no,delivered,5,822.95
+250.99,delhivery,cosmetics,ev van,same day,south,foggy,127.5,41.92,00:00.0,00:00.0,no,delivered,5,863.26
+250.99,xpressbees,documents,ev van,standard,west,clear,295.3,8.06,00:00.0,00:00.0,no,delivered,4,1500.68
+250.99,dhl,pharmacy,ev van,express,central,foggy,297.1,2.64,00:00.0,00:00.0,yes,delayed,3,1551.92
+250.99,amazon logistics,documents,truck,same day,east,foggy,123.5,29.37,00:00.0,00:00.0,yes,delayed,2,805.61
+250.99,delhivery,automobile parts,ev bike,standard,south,stormy,280.4,3.78,00:00.0,00:00.0,no,delivered,4,1413.34
+24750.01,ekart,cosmetics,scooter,two day,east,rainy,194.0,9.87,00:00.0,00:00.0,no,delivered,4,999.61
+24750.01,blue dart,automobile parts,scooter,standard,north,clear,161.8,35.01,00:00.0,00:00.0,no,delivered,4,914.03
+24750.01,blue dart,cosmetics,ev bike,express,west,clear,230.0,46.65,00:00.0,00:00.0,yes,delayed,3,1339.95
+24750.01,delhivery,electronics,van,same day,west,cold,267.4,45.05,00:00.0,00:00.0,no,delivered,5,1572.15
+24750.01,fedex,documents,van,express,north,clear,67.2,37.45,00:00.0,00:00.0,no,delivered,4,498.35
+24750.01,amazon logistics,furniture,scooter,standard,east,cold,108.1,34.63,00:00.0,00:00.0,no,delivered,4,644.39
+24750.01,ekart,documents,bike,two day,south,hot,91.3,44.93,00:00.0,00:00.0,no,delivered,5,591.29
+24750.01,amazon logistics,automobile parts,ev van,two day,east,stormy,51.4,10.39,00:00.0,00:00.0,no,delivered,4,288.17
+24750.01,fedex,furniture,bike,same day,west,clear,166.6,32.53,00:00.0,00:00.0,no,delivered,5,1030.59
+24750.01,ekart,clothing,bike,same day,south,cold,43.6,11.1,00:00.0,00:00.0,no,delivered,4,351.3
+24750.01,delhivery,pharmacy,ev bike,standard,west,hot,13.4,36.95,00:00.0,00:00.0,no,delivered,5,177.85
+24750.01,amazon logistics,groceries,ev bike,standard,west,cold,20.5,44.44,00:00.0,00:00.0,no,delivered,4,235.82
+24750.01,delhivery,clothing,scooter,two day,central,rainy,226.0,19.0,00:00.0,00:00.0,no,delivered,5,1187.0
+24750.01,dhl,automobile parts,ev bike,standard,north,rainy,173.2,18.12,00:00.0,00:00.0,no,delivered,4,920.36
+24750.01,delhivery,automobile parts,ev bike,two day,east,foggy,284.6,40.81,00:00.0,00:00.0,no,delivered,5,1545.43
+24750.01,xpressbees,cosmetics,scooter,standard,east,rainy,277.4,29.29,00:00.0,00:00.0,no,delivered,5,1474.87
+24750.01,ecom express,documents,bike,express,central,clear,218.9,41.23,00:00.0,00:00.0,no,delivered,4,1268.19
+24750.01,ekart,fragile items,ev bike,two day,south,stormy,258.6,19.06,00:00.0,00:00.0,no,delivered,3,1350.18
+24750.01,ekart,documents,ev bike,standard,south,clear,45.1,11.36,00:00.0,00:00.0,no,delivered,4,259.58
+24750.01,shadowfax,fragile items,van,standard,west,hot,242.4,22.97,00:00.0,00:00.0,no,delivered,5,1280.91
+24750.01,fedex,fragile items,scooter,same day,south,clear,201.3,35.13,00:00.0,00:00.0,no,delivered,5,1211.89
+24750.01,dhl,clothing,van,same day,north,hot,259.0,32.54,00:00.0,00:00.0,yes,delayed,2,1492.62
+24750.01,dhl,documents,scooter,two day,east,hot,84.5,11.01,00:00.0,00:00.0,no,delivered,5,455.53
+24750.01,blue dart,cosmetics,ev van,express,central,foggy,226.7,36.6,00:00.0,00:00.0,yes,delayed,3,1293.3
+24750.01,ekart,documents,scooter,same day,south,hot,18.0,3.74,00:00.0,00:00.0,no,delivered,3,201.22
+24750.01,shadowfax,fragile items,van,same day,north,clear,221.1,42.78,00:00.0,00:00.0,yes,delayed,3,1333.84
+24750.01,xpressbees,cosmetics,truck,standard,east,cold,57.9,12.1,00:00.0,00:00.0,no,delivered,4,325.8
+24750.01,xpressbees,documents,bike,same day,east,clear,285.9,3.0,00:00.0,00:00.0,yes,delayed,3,1538.5
+24750.01,fedex,cosmetics,truck,two day,south,hot,295.4,46.8,00:00.0,00:00.0,no,delivered,5,1617.4
+24750.01,xpressbees,electronics,truck,standard,west,cold,124.5,40.4,00:00.0,00:00.0,no,delivered,5,743.7
+24750.01,shadowfax,groceries,truck,two day,north,stormy,277.4,21.64,00:00.0,00:00.0,no,delivered,5,1451.92
+24750.01,dhl,clothing,truck,standard,east,stormy,76.5,35.93,00:00.0,00:00.0,no,delivered,4,490.29
+24750.01,dhl,electronics,van,two day,north,rainy,185.5,36.01,00:00.0,00:00.0,no,delivered,5,1035.53
+24750.01,fedex,cosmetics,truck,express,central,clear,260.4,31.22,00:00.0,00:00.0,yes,failed,1,1445.66
+24750.01,ekart,clothing,ev van,same day,east,stormy,249.2,18.3,00:00.0,00:00.0,yes,delayed,2,1400.9
+24750.01,xpressbees,cosmetics,van,two day,west,hot,106.6,16.27,00:00.0,00:00.0,no,delivered,3,581.81
+24750.01,blue dart,electronics,van,same day,west,foggy,60.3,41.36,00:00.0,00:00.0,no,delivered,5,525.58
+24750.01,delhivery,automobile parts,ev bike,express,west,stormy,89.0,17.09,00:00.0,00:00.0,yes,delayed,3,546.27
+24750.01,fedex,automobile parts,bike,express,west,foggy,3.6,49.52,00:00.0,00:00.0,yes,failed,1,211.78
+24750.01,delhivery,documents,scooter,express,central,foggy,101.9,42.78,00:00.0,00:00.0,yes,delayed,3,687.84
+24750.01,blue dart,furniture,bike,standard,west,rainy,216.9,15.59,00:00.0,00:00.0,no,delivered,5,1131.27
+24750.01,dhl,pharmacy,van,same day,north,cold,139.0,21.23,00:00.0,00:00.0,no,delivered,4,858.69
+24750.01,delhivery,pharmacy,bike,two day,south,hot,42.9,9.48,00:00.0,00:00.0,no,delivered,4,242.94
+24750.01,ekart,electronics,scooter,standard,east,rainy,100.9,27.97,00:00.0,00:00.0,no,delivered,5,588.41
+24750.01,fedex,automobile parts,van,two day,central,stormy,78.8,13.05,00:00.0,00:00.0,no,delivered,3,433.15
+24750.01,dhl,automobile parts,truck,two day,east,hot,177.2,35.88,00:00.0,00:00.0,no,delivered,5,993.64
+24750.01,ecom express,furniture,van,same day,central,clear,24.5,33.0,00:00.0,00:00.0,no,delivered,5,321.5
+24750.01,delhivery,furniture,ev bike,express,west,rainy,219.6,12.31,00:00.0,00:00.0,yes,delayed,3,1184.93
+24750.01,xpressbees,clothing,ev bike,same day,south,foggy,41.7,17.28,00:00.0,00:00.0,no,delivered,5,360.34
+24750.01,shadowfax,cosmetics,bike,two day,central,stormy,291.1,48.75,00:00.0,00:00.0,no,delivered,4,1601.75
+24750.01,shadowfax,furniture,ev bike,express,east,rainy,233.0,34.91,00:00.0,00:00.0,no,delivered,5,1319.73
+24750.01,xpressbees,documents,bike,same day,east,cold,107.9,23.64,00:00.0,00:00.0,no,delivered,4,710.42
+24750.01,delhivery,documents,scooter,express,north,rainy,58.1,21.55,00:00.0,00:00.0,no,delivered,5,405.15
+24750.01,amazon logistics,electronics,ev bike,same day,north,stormy,192.2,38.47,00:00.0,00:00.0,yes,delayed,2,1176.41
+24750.01,ekart,fragile items,truck,express,east,rainy,288.8,42.41,00:00.0,00:00.0,yes,delayed,2,1621.23
+24750.01,shadowfax,electronics,scooter,express,west,stormy,150.4,35.97,00:00.0,00:00.0,yes,delayed,3,909.91
+24750.01,ekart,pharmacy,bike,two day,central,hot,152.0,35.96,00:00.0,00:00.0,no,delivered,3,867.88
+24750.01,dhl,fragile items,scooter,standard,west,stormy,106.1,4.11,00:00.0,00:00.0,no,delivered,4,542.83
+24750.01,xpressbees,electronics,ev bike,two day,east,foggy,180.1,43.13,00:00.0,00:00.0,no,delivered,4,1029.89
+24750.01,ecom express,clothing,truck,standard,south,hot,292.1,33.37,00:00.0,00:00.0,no,delivered,5,1560.61
+24750.01,amazon logistics,cosmetics,bike,two day,east,stormy,135.7,22.04,00:00.0,00:00.0,no,delivered,5,744.62
+24750.01,xpressbees,fragile items,van,two day,north,hot,28.3,21.71,00:00.0,00:00.0,no,delivered,5,206.63
+24750.01,fedex,electronics,scooter,two day,east,stormy,152.9,27.6,00:00.0,00:00.0,no,delivered,5,847.3
+24750.01,fedex,documents,bike,two day,north,hot,227.8,6.06,00:00.0,00:00.0,no,delivered,4,1157.18
+24750.01,ecom express,pharmacy,bike,two day,west,stormy,275.8,2.66,00:00.0,00:00.0,no,delivered,4,1386.98
+24750.01,blue dart,furniture,ev bike,standard,north,hot,216.5,4.95,00:00.0,00:00.0,no,delivered,5,1097.35
+24750.01,ecom express,furniture,bike,two day,east,clear,249.2,11.55,00:00.0,00:00.0,no,delivered,4,1280.65
+24750.01,shadowfax,documents,scooter,two day,south,foggy,139.3,21.14,00:00.0,00:00.0,no,delivered,5,759.92
+24750.01,shadowfax,furniture,ev van,same day,west,clear,29.4,24.74,00:00.0,00:00.0,no,delivered,4,321.22
+24750.01,shadowfax,electronics,ev bike,same day,west,rainy,17.6,48.95,00:00.0,00:00.0,no,delivered,5,334.85
+24750.01,amazon logistics,fragile items,truck,two day,south,rainy,54.6,20.61,00:00.0,00:00.0,no,delivered,4,334.83
+24750.01,xpressbees,furniture,ev bike,two day,south,foggy,126.3,48.06,00:00.0,00:00.0,no,delivered,4,775.68
+24750.01,delhivery,groceries,bike,two day,central,foggy,252.7,20.26,00:00.0,00:00.0,no,delivered,4,1324.28
+24750.01,amazon logistics,groceries,scooter,two day,central,stormy,149.0,43.01,00:00.0,00:00.0,no,delivered,4,874.03
+24750.01,xpressbees,groceries,van,two day,central,stormy,105.6,48.18,00:00.0,00:00.0,no,delivered,4,672.54
+24750.01,ecom express,groceries,ev bike,two day,south,hot,121.0,31.24,00:00.0,00:00.0,no,delivered,4,698.72
+24750.01,ecom express,clothing,bike,two day,north,hot,289.4,6.78,00:00.0,00:00.0,no,delivered,5,1467.34
+24750.01,ecom express,pharmacy,truck,same day,west,stormy,131.8,27.39,00:00.0,00:00.0,yes,delayed,2,841.17
+24750.01,delhivery,clothing,bike,same day,south,clear,205.7,24.36,00:00.0,00:00.0,no,delivered,4,1201.58
+24750.01,shadowfax,documents,ev van,same day,south,foggy,288.4,44.14,00:00.0,00:00.0,yes,delayed,3,1632.7206
+24750.01,ecom express,fragile items,scooter,express,west,stormy,200.1,1.49,00:00.0,00:00.0,yes,delayed,2,1054.97
+24750.01,ecom express,pharmacy,ev bike,same day,north,stormy,166.1,48.31,00:00.0,00:00.0,yes,delayed,3,1075.43
+24750.01,fedex,automobile parts,truck,same day,central,cold,155.3,40.07,00:00.0,00:00.0,no,delivered,4,996.71
+24750.01,ecom express,pharmacy,van,standard,south,clear,196.8,38.74,00:00.0,00:00.0,no,delivered,3,1100.22
+24750.01,amazon logistics,fragile items,ev bike,two day,south,cold,168.4,36.72,00:00.0,00:00.0,no,delivered,5,952.16
+24750.01,delhivery,electronics,truck,express,west,stormy,203.3,17.6,00:00.0,00:00.0,yes,delayed,2,1119.3
+24750.01,amazon logistics,furniture,van,express,west,foggy,178.4,4.37,00:00.0,00:00.0,yes,delayed,2,955.11
+24750.01,shadowfax,groceries,truck,two day,west,stormy,292.5,49.52,00:00.0,00:00.0,yes,failed,1,1611.87
+24750.01,shadowfax,electronics,scooter,same day,east,hot,257.2,39.35,00:00.0,00:00.0,yes,delayed,3,1504.05
+24750.01,blue dart,electronics,ev bike,standard,west,stormy,29.3,19.05,00:00.0,00:00.0,no,delivered,3,203.65
+24750.01,ecom express,clothing,ev bike,express,south,foggy,248.5,35.53,00:00.0,00:00.0,yes,delayed,2,1399.09
+24750.01,ekart,electronics,van,express,east,cold,54.4,5.23,00:00.0,00:00.0,no,delivered,5,337.69
+24750.01,dhl,groceries,truck,same day,north,rainy,82.2,24.83,00:00.0,00:00.0,yes,delayed,2,585.49
+24750.01,ekart,electronics,ev bike,express,east,stormy,61.6,30.67,00:00.0,00:00.0,yes,failed,1,450.01
+24750.01,ecom express,fragile items,truck,express,south,stormy,118.2,44.59,00:00.0,00:00.0,yes,delayed,2,774.77
+24750.01,fedex,pharmacy,scooter,same day,central,stormy,106.3,2.12,00:00.0,00:00.0,no,delivered,5,637.86
+24750.01,blue dart,automobile parts,scooter,same day,central,foggy,270.7,3.07,00:00.0,00:00.0,no,delivered,5,1462.71
+24750.01,delhivery,electronics,ev van,standard,north,hot,164.2,28.3,00:00.0,00:00.0,no,delivered,5,905.9
+24750.01,ecom express,electronics,ev bike,same day,west,hot,97.2,38.03,00:00.0,00:00.0,no,delivered,4,700.09
+24750.01,ekart,fragile items,scooter,two day,north,cold,173.8,12.53,00:00.0,00:00.0,no,delivered,5,906.59
+24750.01,xpressbees,groceries,ev bike,same day,south,cold,160.3,20.61,00:00.0,00:00.0,no,delivered,5,963.33
+24750.01,delhivery,cosmetics,bike,two day,east,hot,292.1,19.5,00:00.0,00:00.0,no,delivered,4,1519.0
+24750.01,ecom express,clothing,ev bike,same day,south,clear,61.5,36.06,00:00.0,00:00.0,no,delivered,3,515.68
+24750.01,shadowfax,electronics,scooter,standard,central,rainy,229.5,23.68,00:00.0,00:00.0,no,delivered,4,1218.54
+24750.01,ekart,furniture,scooter,express,north,cold,18.5,5.58,00:00.0,00:00.0,no,delivered,5,159.24
+24750.01,ecom express,pharmacy,ev van,express,central,foggy,114.3,46.19,00:00.0,00:00.0,no,delivered,4,760.07
+24750.01,ekart,clothing,bike,same day,central,clear,128.0,39.14,00:00.0,00:00.0,no,delivered,4,857.42
+24750.01,ecom express,electronics,ev bike,standard,west,clear,281.5,10.0,00:00.0,00:00.0,no,delivered,4,1437.5
+24750.01,shadowfax,clothing,van,standard,central,clear,34.2,3.19,00:00.0,00:00.0,no,delivered,5,180.57
+24750.01,fedex,electronics,van,standard,south,clear,142.1,31.42,00:00.0,00:00.0,no,delivered,3,804.76
+24750.01,delhivery,automobile parts,van,standard,west,cold,83.6,46.1,00:00.0,00:00.0,no,delivered,3,556.3
+24750.01,ekart,automobile parts,ev van,express,west,hot,3.6,0.93,00:00.0,00:00.0,no,delivered,4,95.6674
+24750.01,delhivery,electronics,truck,two day,south,clear,27.7,33.38,00:00.0,00:00.0,no,delivered,4,238.64
+24750.01,amazon logistics,furniture,scooter,express,south,foggy,118.7,37.29,00:00.0,00:00.0,no,delivered,4,755.37
+24750.01,delhivery,groceries,bike,two day,south,cold,233.4,6.6,00:00.0,00:00.0,no,delivered,5,1186.8
+24750.01,blue dart,electronics,scooter,same day,north,rainy,289.7,29.08,00:00.0,00:00.0,yes,delayed,2,1632.7206
+24750.01,blue dart,pharmacy,bike,same day,east,hot,148.7,1.91,00:00.0,00:00.0,no,delivered,4,849.23
+24750.01,ecom express,fragile items,bike,express,north,foggy,297.1,12.42,00:00.0,00:00.0,yes,delayed,2,1587.26
+24750.01,ecom express,pharmacy,ev van,express,south,stormy,13.7,3.31,00:00.0,00:00.0,yes,delayed,2,128.43
+24750.01,xpressbees,automobile parts,van,express,central,rainy,8.3,17.64,00:00.0,00:00.0,yes,delayed,3,144.42
+24750.01,delhivery,pharmacy,ev van,express,north,rainy,114.4,30.21,00:00.0,00:00.0,yes,delayed,2,712.63
+24750.01,fedex,furniture,truck,two day,west,clear,99.5,3.71,00:00.0,00:00.0,no,delivered,5,508.63
+24750.01,ecom express,automobile parts,scooter,standard,south,clear,90.5,42.39,00:00.0,00:00.0,no,delivered,3,579.67
+24750.01,delhivery,cosmetics,bike,two day,north,hot,264.4,3.6,00:00.0,00:00.0,no,delivered,3,1332.8
+24750.01,amazon logistics,cosmetics,ev bike,two day,east,cold,167.7,35.96,00:00.0,00:00.0,no,delivered,4,946.38
+24750.01,delhivery,fragile items,bike,standard,south,rainy,113.4,29.32,00:00.0,00:00.0,no,delivered,4,654.96
+24750.01,amazon logistics,electronics,bike,express,west,hot,8.5,12.9,00:00.0,00:00.0,no,delivered,5,131.2
+24750.01,fedex,cosmetics,van,same day,central,clear,8.7,20.49,00:00.0,00:00.0,no,delivered,5,204.97
+24750.01,amazon logistics,cosmetics,scooter,express,west,foggy,38.5,28.84,00:00.0,00:00.0,no,delivered,4,329.02
+24750.01,dhl,furniture,scooter,standard,west,hot,76.3,35.43,00:00.0,00:00.0,no,delivered,3,487.79
+24750.01,amazon logistics,pharmacy,truck,express,west,foggy,10.9,5.27,00:00.0,00:00.0,yes,failed,2,120.31
+24750.01,amazon logistics,fragile items,truck,two day,south,cold,56.0,3.97,00:00.0,00:00.0,no,delivered,4,291.91
+24750.01,ekart,clothing,van,express,east,clear,16.3,15.27,00:00.0,00:00.0,yes,delayed,3,177.31
+24750.01,shadowfax,furniture,truck,two day,central,clear,266.5,1.08,00:00.0,00:00.0,no,delivered,3,1335.74
+24750.01,fedex,cosmetics,ev bike,express,east,foggy,168.1,37.85,00:00.0,00:00.0,yes,delayed,2,1004.05
+24750.01,dhl,documents,bike,same day,east,foggy,125.7,4.32,00:00.0,00:00.0,no,delivered,5,741.46
+24750.01,amazon logistics,documents,van,two day,west,clear,105.4,37.18,00:00.0,00:00.0,no,delivered,5,638.54
+24750.01,ekart,electronics,bike,same day,east,rainy,264.5,28.11,00:00.0,00:00.0,yes,delayed,2,1506.83
+24750.01,blue dart,documents,ev van,express,north,hot,105.8,34.71,00:00.0,00:00.0,no,delivered,4,683.13
+24750.01,fedex,groceries,truck,two day,east,clear,122.8,4.32,00:00.0,00:00.0,no,delivered,4,626.96
+24750.01,amazon logistics,automobile parts,ev bike,standard,north,foggy,23.6,5.38,00:00.0,00:00.0,no,delivered,5,134.14
+24750.01,blue dart,electronics,ev bike,standard,west,foggy,255.0,44.77,00:00.0,00:00.0,no,delivered,4,1409.31
+24750.01,dhl,pharmacy,bike,standard,central,clear,90.2,42.31,00:00.0,00:00.0,no,delivered,3,577.93
+24750.01,xpressbees,electronics,van,same day,south,hot,200.4,26.79,00:00.0,00:00.0,yes,delayed,2,1182.37
+24750.01,fedex,fragile items,ev van,express,south,clear,27.6,0.67,00:00.0,00:00.0,yes,failed,1,189.17
+24750.01,shadowfax,furniture,truck,standard,north,rainy,96.1,3.79,00:00.0,00:00.0,no,delivered,4,491.87
+24750.01,fedex,groceries,truck,standard,south,rainy,43.5,7.3,00:00.0,00:00.0,no,delivered,4,239.4
+24750.01,amazon logistics,automobile parts,ev van,standard,west,clear,225.1,22.31,00:00.0,00:00.0,no,delivered,4,1192.43
+24750.01,amazon logistics,cosmetics,ev bike,express,north,hot,219.2,41.88,00:00.0,00:00.0,no,delivered,4,1271.64
+24750.01,fedex,electronics,ev bike,same day,east,stormy,219.0,0.67,00:00.0,00:00.0,yes,delayed,3,1196.53
+24750.01,dhl,documents,ev bike,express,central,rainy,66.2,34.59,00:00.0,00:00.0,yes,delayed,3,484.77
+24750.01,ekart,documents,van,express,central,cold,181.7,40.01,00:00.0,00:00.0,no,delivered,5,1078.53
+24750.01,dhl,pharmacy,ev van,two day,north,clear,30.2,37.15,00:00.0,00:00.0,no,delivered,4,262.45
+24750.01,amazon logistics,fragile items,ev van,standard,central,foggy,53.8,15.53,00:00.0,00:00.0,no,delivered,4,315.59
+24750.01,fedex,pharmacy,bike,two day,central,clear,289.2,31.58,00:00.0,00:00.0,no,delivered,4,1540.74
+24750.01,xpressbees,groceries,truck,standard,west,foggy,153.1,27.2,00:00.0,00:00.0,no,delivered,5,847.1
+24750.01,dhl,cosmetics,scooter,two day,central,clear,194.0,34.97,00:00.0,00:00.0,no,delivered,3,1074.91
+24750.01,xpressbees,cosmetics,truck,two day,east,rainy,23.4,36.49,00:00.0,00:00.0,no,delivered,5,226.47
+24750.01,xpressbees,electronics,ev bike,express,east,cold,61.6,45.68,00:00.0,00:00.0,no,delivered,5,495.04
+24750.01,fedex,furniture,ev bike,standard,west,cold,274.1,47.83,00:00.0,00:00.0,no,delivered,4,1513.99
+24750.01,ecom express,cosmetics,ev bike,standard,central,clear,22.3,11.09,00:00.0,00:00.0,no,delivered,5,144.77
+24750.01,amazon logistics,pharmacy,van,express,north,cold,160.5,48.1,00:00.0,00:00.0,no,delivered,3,996.8
+24750.01,blue dart,documents,bike,express,west,foggy,249.5,38.81,00:00.0,00:00.0,yes,delayed,3,1413.93
+24750.01,ekart,clothing,ev van,express,south,hot,264.1,29.32,00:00.0,00:00.0,yes,delayed,3,1458.46
+24750.01,ecom express,documents,bike,standard,central,clear,80.7,2.56,00:00.0,00:00.0,no,delivered,5,411.18
+24750.01,dhl,groceries,scooter,two day,west,clear,24.6,8.31,00:00.0,00:00.0,no,delivered,4,147.93
+24750.01,ekart,automobile parts,ev bike,express,north,stormy,77.4,7.89,00:00.0,00:00.0,yes,delayed,3,460.67
+24750.01,amazon logistics,pharmacy,van,standard,east,rainy,177.3,18.29,00:00.0,00:00.0,no,delivered,5,941.37
+24750.01,shadowfax,fragile items,van,express,central,foggy,187.9,29.0,00:00.0,00:00.0,yes,delayed,3,1076.5
+24750.01,blue dart,electronics,bike,same day,west,rainy,195.4,2.55,00:00.0,00:00.0,yes,delayed,3,1084.65
+24750.01,delhivery,fragile items,scooter,standard,west,foggy,99.3,6.08,00:00.0,00:00.0,no,delivered,4,514.74
+24750.01,amazon logistics,clothing,ev bike,express,north,clear,152.5,28.29,00:00.0,00:00.0,yes,delayed,3,897.37
+24750.01,xpressbees,pharmacy,truck,two day,central,foggy,94.2,13.46,00:00.0,00:00.0,no,delivered,4,511.38
+24750.01,dhl,groceries,scooter,same day,west,foggy,267.6,24.92,00:00.0,00:00.0,yes,failed,2,1512.76
+24750.01,amazon logistics,fragile items,van,express,central,clear,5.2,27.75,00:00.0,00:00.0,yes,delayed,2,159.25
+24750.01,blue dart,cosmetics,van,two day,central,foggy,98.3,26.89,00:00.0,00:00.0,no,delivered,5,572.17
+24750.01,amazon logistics,furniture,ev van,express,central,hot,228.1,4.94,00:00.0,00:00.0,no,delivered,4,1205.32
+24750.01,delhivery,furniture,ev van,standard,west,cold,297.1,26.14,00:00.0,00:00.0,no,delivered,5,1576.42
+24750.01,shadowfax,cosmetics,van,standard,east,rainy,111.6,28.33,00:00.0,00:00.0,no,delivered,5,642.99
+24750.01,amazon logistics,cosmetics,scooter,standard,north,hot,99.4,22.15,00:00.0,00:00.0,no,delivered,4,563.45
+24750.01,shadowfax,pharmacy,truck,express,north,stormy,222.8,37.2,00:00.0,00:00.0,yes,delayed,2,1275.6
+24750.01,amazon logistics,cosmetics,bike,express,west,clear,258.4,5.52,00:00.0,00:00.0,yes,delayed,2,1358.56
+24750.01,dhl,fragile items,truck,standard,central,rainy,160.3,36.88,00:00.0,00:00.0,no,delivered,4,912.14
+24750.01,ekart,electronics,truck,express,central,clear,248.1,45.38,00:00.0,00:00.0,yes,delayed,3,1426.64
+24750.01,ekart,groceries,ev van,standard,central,rainy,265.1,36.93,00:00.0,00:00.0,no,delivered,3,1436.29
+24750.01,blue dart,automobile parts,van,two day,north,cold,99.7,37.06,00:00.0,00:00.0,no,delivered,4,609.68
+24750.01,ekart,documents,truck,same day,east,foggy,89.4,25.37,00:00.0,00:00.0,no,delivered,5,623.11
+24750.01,ekart,fragile items,bike,express,west,hot,32.0,43.84,00:00.0,00:00.0,no,delivered,4,341.52
+24750.01,xpressbees,furniture,ev bike,two day,west,stormy,39.6,44.11,00:00.0,00:00.0,no,delivered,4,330.33
+24750.01,blue dart,documents,scooter,two day,east,clear,164.2,18.48,00:00.0,00:00.0,no,delivered,3,876.44
+24750.01,blue dart,groceries,ev bike,two day,central,clear,32.8,29.11,00:00.0,00:00.0,no,delivered,5,251.33
+24750.01,xpressbees,furniture,scooter,standard,south,cold,220.4,20.2,00:00.0,00:00.0,no,delivered,5,1162.6
+24750.01,fedex,clothing,van,same day,central,stormy,140.5,11.35,00:00.0,00:00.0,yes,delayed,2,836.55
+24750.01,blue dart,documents,scooter,standard,east,foggy,259.1,5.67,00:00.0,00:00.0,no,delivered,4,1312.51
+24750.01,xpressbees,cosmetics,ev van,same day,west,foggy,200.2,25.1,00:00.0,00:00.0,no,delivered,4,1176.3
+24750.01,blue dart,automobile parts,ev bike,same day,east,hot,111.3,19.36,00:00.0,00:00.0,no,delivered,5,714.58
+24750.01,amazon logistics,automobile parts,ev bike,standard,south,rainy,70.1,11.37,00:00.0,00:00.0,no,delivered,4,384.61
+24750.01,delhivery,groceries,scooter,two day,east,stormy,113.1,35.51,00:00.0,00:00.0,no,delivered,5,672.03
+24750.01,shadowfax,fragile items,ev bike,standard,east,stormy,135.7,26.88,00:00.0,00:00.0,no,delivered,3,759.14
+24750.01,shadowfax,groceries,van,standard,west,hot,231.4,29.25,00:00.0,00:00.0,no,delivered,3,1244.75
+24750.01,dhl,fragile items,ev bike,express,north,cold,95.3,30.63,00:00.0,00:00.0,no,delivered,5,618.39
+24750.01,xpressbees,automobile parts,scooter,two day,north,rainy,50.8,9.9,00:00.0,00:00.0,no,delivered,5,283.7
+24750.01,dhl,furniture,truck,express,south,cold,176.4,25.15,00:00.0,00:00.0,yes,delayed,2,1007.45
+24750.01,shadowfax,pharmacy,ev van,standard,south,stormy,117.5,29.59,00:00.0,00:00.0,no,delivered,5,676.27
+24750.01,ekart,fragile items,bike,standard,west,rainy,115.3,6.46,00:00.0,00:00.0,no,delivered,4,595.88
+24750.01,shadowfax,clothing,ev bike,two day,west,rainy,105.7,49.08,00:00.0,00:00.0,no,delivered,4,675.74
+24750.01,xpressbees,documents,ev bike,same day,north,hot,154.6,24.97,00:00.0,00:00.0,no,delivered,5,947.91
+24750.01,ecom express,pharmacy,van,standard,north,foggy,138.2,3.06,00:00.0,00:00.0,no,delivered,4,700.18
+24750.01,dhl,clothing,ev van,same day,central,stormy,278.9,48.55,00:00.0,00:00.0,yes,failed,2,1632.7206
+24750.01,fedex,fragile items,ev bike,standard,west,clear,83.4,38.68,00:00.0,00:00.0,no,delivered,3,533.04
+24750.01,fedex,documents,truck,same day,central,hot,94.2,30.76,00:00.0,00:00.0,no,delivered,5,663.28
+24750.01,amazon logistics,groceries,scooter,two day,west,stormy,95.0,24.93,00:00.0,00:00.0,no,delivered,4,549.79
+24750.01,ecom express,fragile items,ev bike,two day,east,rainy,278.7,32.53,00:00.0,00:00.0,no,delivered,4,1491.09
+24750.01,shadowfax,furniture,bike,standard,south,clear,10.2,33.23,00:00.0,00:00.0,no,delivered,4,150.69
+24750.01,amazon logistics,fragile items,scooter,express,central,stormy,17.9,24.07,00:00.0,00:00.0,yes,delayed,3,211.71
+24750.01,delhivery,pharmacy,van,same day,central,rainy,266.6,15.3,00:00.0,00:00.0,no,delivered,5,1478.9
+24750.01,xpressbees,furniture,scooter,standard,east,stormy,67.3,1.76,00:00.0,00:00.0,no,delivered,5,341.78
+24750.01,amazon logistics,furniture,truck,two day,east,clear,180.7,44.74,00:00.0,00:00.0,no,delivered,5,1037.72
+24750.01,xpressbees,fragile items,ev van,same day,south,hot,122.4,2.81,00:00.0,00:00.0,no,delivered,3,720.43
+24750.01,shadowfax,automobile parts,van,standard,central,stormy,58.6,29.16,00:00.0,00:00.0,no,delivered,3,380.48
+24750.01,ecom express,electronics,van,two day,north,cold,260.0,19.04,00:00.0,00:00.0,no,delivered,4,1357.12
+24750.01,shadowfax,furniture,van,same day,north,foggy,153.8,2.1,00:00.0,00:00.0,yes,delayed,2,875.3
+24750.01,amazon logistics,fragile items,ev bike,standard,central,foggy,169.6,37.15,00:00.0,00:00.0,no,delivered,5,959.45
+24750.01,blue dart,pharmacy,ev bike,same day,central,foggy,5.0,13.18,00:00.0,00:00.0,no,delivered,5,164.54
+24750.01,shadowfax,furniture,scooter,express,south,stormy,172.8,33.66,00:00.0,00:00.0,yes,failed,1,1014.98
+24750.01,dhl,fragile items,ev van,express,east,foggy,39.0,23.0,00:00.0,00:00.0,yes,delayed,2,314.0
+24750.01,amazon logistics,furniture,truck,two day,south,hot,274.0,40.91,00:00.0,00:00.0,no,delivered,3,1492.73
+24750.01,amazon logistics,clothing,ev van,standard,central,clear,135.9,31.49,00:00.0,00:00.0,no,delivered,5,773.97
+24750.01,amazon logistics,documents,ev van,express,north,clear,289.5,17.96,00:00.0,00:00.0,no,delivered,3,1551.38
+24750.01,blue dart,electronics,truck,express,east,cold,106.5,35.55,00:00.0,00:00.0,yes,delayed,2,689.15
+24750.01,fedex,cosmetics,ev bike,express,east,cold,139.6,34.48,00:00.0,00:00.0,yes,delayed,3,851.44
+24750.01,delhivery,automobile parts,truck,express,central,foggy,6.4,23.29,00:00.0,00:00.0,yes,failed,1,151.87
+24750.01,ecom express,groceries,truck,same day,east,stormy,5.4,41.54,00:00.0,00:00.0,no,delivered,5,251.62
+24750.01,ekart,cosmetics,truck,express,south,hot,201.2,46.44,00:00.0,00:00.0,yes,failed,1,1195.32
+24750.01,shadowfax,automobile parts,scooter,same day,east,stormy,3.6,15.93,00:00.0,00:00.0,no,delivered,5,157.29
+24750.01,fedex,groceries,van,same day,west,cold,285.9,9.78,00:00.0,00:00.0,no,delivered,4,1558.84
+24750.01,ecom express,fragile items,ev bike,standard,central,cold,290.9,13.15,00:00.0,00:00.0,no,delivered,3,1493.95
+24750.01,amazon logistics,electronics,ev bike,express,north,clear,71.6,16.03,00:00.0,00:00.0,no,delivered,5,456.09
+24750.01,xpressbees,cosmetics,van,same day,west,foggy,243.6,22.85,00:00.0,00:00.0,yes,delayed,2,1386.55
+24750.01,shadowfax,clothing,bike,express,east,hot,254.9,2.24,00:00.0,00:00.0,no,delivered,5,1331.22
+24750.01,blue dart,fragile items,bike,same day,north,cold,40.5,6.83,00:00.0,00:00.0,no,delivered,5,322.99
+24750.01,ecom express,electronics,ev van,two day,south,clear,244.3,21.85,00:00.0,00:00.0,no,delivered,3,1287.05
+24750.01,delhivery,fragile items,bike,same day,east,foggy,259.1,32.23,00:00.0,00:00.0,yes,delayed,2,1492.19
+24750.01,fedex,groceries,scooter,express,central,cold,112.1,42.97,00:00.0,00:00.0,yes,delayed,2,739.41
+24750.01,dhl,documents,bike,same day,central,foggy,208.4,5.1,00:00.0,00:00.0,yes,delayed,2,1157.3
+24750.01,dhl,furniture,scooter,two day,east,foggy,80.7,3.65,00:00.0,00:00.0,no,delivered,5,414.45
+24750.01,ecom express,automobile parts,ev van,standard,west,clear,172.9,21.42,00:00.0,00:00.0,no,delivered,5,928.76
+24750.01,ekart,clothing,scooter,same day,east,rainy,168.4,4.85,00:00.0,00:00.0,yes,delayed,2,956.55
+24750.01,shadowfax,documents,ev van,standard,west,stormy,37.2,8.04,00:00.0,00:00.0,no,delivered,5,210.12
+24750.01,blue dart,pharmacy,ev bike,two day,central,rainy,279.3,5.06,00:00.0,00:00.0,no,delivered,3,1411.68
