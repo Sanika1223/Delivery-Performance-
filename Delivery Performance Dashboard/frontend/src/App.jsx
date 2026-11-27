@@ -1,23 +1,37 @@
 
 import './App.css';
+import { useEffect, useState } from 'react';
 
 import {
   PieChart,
   Pie,
   Cell,
   Tooltip,
-  ResponsiveContainer
+  ResponsiveContainer,
+  BarChart,
+  Bar,
+  XAxis,
+  YAxis,
+  CartesianGrid
 } from 'recharts';
-
-const deliveryStatusData = [
-  { name: 'Delivered', value: 18331 },
-  { name: 'Delayed', value: 5341 },
-  { name: 'Failed', value: 1328 }
-];
 
 const COLORS = ['#171717', '#737373', '#d4d4d4'];
 
 function App() {
+  const [regionalData, setRegionalData] = useState([]);
+  const [deliveryStatusData, setDeliveryStatusData] = useState([]);
+
+useEffect(() => {
+  fetch('http://127.0.0.1:8000/api/regional-performance')
+    .then((response) => response.json())
+    .then((data) => setRegionalData(data))
+    .catch((error) => console.error('Error fetching regional data:', error));
+
+  fetch('http://127.0.0.1:8000/api/delivery-status')
+    .then((response) => response.json())
+    .then((data) => setDeliveryStatusData(data))
+    .catch((error) => console.error('Error fetching delivery status:', error));
+}, []);
   return (
     <div className="dashboard">
 
@@ -117,15 +131,21 @@ function App() {
             </div>
           </div>
 
-          {/* Regional Performance Placeholder */}
-          <div className="chart-card">
-            <h3>Regional Performance</h3>
-            <p>Delivery volume by region</p>
+          {/* Regional Performance */}
+<div className="chart-card">
+  <h3>Regional Performance</h3>
+  <p>Delivery volume by region</p>
 
-            <div className="chart-placeholder">
-              Regional chart will be added next
-            </div>
-          </div>
+  <ResponsiveContainer width="100%" height={300}>
+    <BarChart data={regionalData}>
+      <CartesianGrid strokeDasharray="3 3" />
+      <XAxis dataKey="region" />
+      <YAxis />
+      <Tooltip />
+      <Bar dataKey="total_deliveries" fill="#333333" />
+    </BarChart>
+  </ResponsiveContainer>
+</div>
 
         </section>
 
