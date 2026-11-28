@@ -16,7 +16,7 @@ import {
 } from 'recharts';
 
 const COLORS = ['#3B82F6', '#EF4444', '#60A5FA'];
-const API_URL = 'http://127.0.0.1:8000';
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000';
 
 function App() {
   const [regionalData, setRegionalData] = useState([]);
